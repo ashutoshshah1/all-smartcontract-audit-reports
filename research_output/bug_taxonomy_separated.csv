@@ -1,0 +1,34 @@
+bucket,bug_family,subtype,language_or_layer,attack_chain_stage,description
+Solidity,AccessControl,MissingRoleCheck,Solidity,entry,Privileged function callable by unintended actor.
+Solidity,AccessControl,InitializerTakeover,Solidity,entry,Proxy or implementation not initialized correctly allows admin takeover.
+Solidity,Reentrancy,SingleFunctionReentrancy,Solidity,state_corruption,External interaction before effects permits repeated state mutation.
+Solidity,Reentrancy,CrossFunctionReentrancy,Solidity,state_corruption,State assumptions break when callback enters another function.
+Solidity,AuthAndSignatures,SignatureReplay,Solidity,auth_bypass,Message signatures are reusable due to missing nonce/domain separation.
+Solidity,AuthAndSignatures,EIP712DomainMismatch,Solidity,auth_bypass,Incorrect EIP-712 domain config enables signature misuse.
+Solidity,MathAndPrecision,RoundingDrift,Solidity,state_corruption,Rounding direction leaks value over repeated operations.
+Solidity,MathAndPrecision,DecimalMismatch,Solidity,state_corruption,Token decimal assumptions cause accounting distortion.
+Solidity,Upgradeability,StorageCollision,Solidity,state_corruption,Upgradeable layout mismatch corrupts critical state.
+Solidity,Upgradeability,UnsafeDelegatecall,Solidity,entry,Delegatecall target control enables arbitrary code context execution.
+Solidity,OracleIntegration,StalePriceUsage,Solidity,state_corruption,Protocol accepts outdated oracle value for critical decisions.
+Solidity,OracleIntegration,ManipulableSpotPrice,Solidity,state_corruption,Short-window spot or thin liquidity price is exploitable.
+Solidity,LiquidationAccounting,HealthFactorMiscalculation,Solidity,extraction,Faulty collateral/debt formula enables bad liquidations.
+Solidity,LiquidationAccounting,ShareInflation,Solidity,extraction,Share mint/burn mismatch allows disproportionate redemption.
+Rust-Based,AuthorityValidation,MissingSignerConstraint,Rust,entry,Instruction fails to enforce required signer.
+Rust-Based,AuthorityValidation,PDASeedValidationGap,Rust,auth_bypass,PDA seeds or bump checks are incomplete or inconsistent.
+Rust-Based,AccountConstraints,OwnerCheckBypass,Rust,auth_bypass,Account ownership constraints are not verified correctly.
+Rust-Based,AccountConstraints,MutabilityEscalation,Rust,state_corruption,Unexpected writable account paths alter protected state.
+Rust-Based,CPITrust,CrossProgramAssumption,Rust,state_corruption,CPI target behavior trusted without defensive verification.
+Rust-Based,Serialization,TypeConfusion,Rust,state_corruption,Deserialization/schema mismatch allows malicious state interpretation.
+Rust-Based,StateLifecycle,ReinitOrCloseAbuse,Rust,entry,Account initialization/closure lifecycle permits unauthorized state resets.
+Rust-Based,MathAndPrecision,FixedPointOverflow,Rust,state_corruption,Unchecked math or precision conversion causes broken accounting.
+Protocol/Economic,OracleManipulation,ThinLiquidityTWAPAttack,Protocol,entry,Adversary moves reference market to alter protocol valuation.
+Protocol/Economic,OracleManipulation,CrossMarketPriceSpoofing,Protocol,state_corruption,Correlated market or bridge feed mismatch exploited.
+Protocol/Economic,FlashLoanAmplification,OneBlockCapitalAttack,Protocol,entry,Flash liquidity amplifies exploit path without upfront capital.
+Protocol/Economic,BridgeAndCrossChain,MessageVerificationFailure,Protocol,auth_bypass,Cross-chain proof validation logic accepts forged messages.
+Protocol/Economic,BridgeAndCrossChain,ValidatorKeyCompromise,Protocol,auth_bypass,Control-plane keys authorize fraudulent bridge operations.
+Protocol/Economic,Governance,VotePowerCapture,Protocol,entry,Temporary voting power acquisition forces harmful parameter changes.
+Protocol/Economic,InsolvencyDesign,BadDebtPath,Protocol,extraction,System can be driven insolvent through allowed state transitions.
+Protocol/Economic,MEVAndOrdering,SandwichOrBackrunDependency,Protocol,extraction,Critical invariants break under adversarial transaction ordering.
+Protocol/Economic,Incentives,RewardDrainLoop,Protocol,extraction,Reward function can be recursively farmed beyond intended economics.
+Protocol/Economic,LivenessAssumptions,SequencerDependencyFailure,Protocol,state_corruption,Protocol assumes sequencing/finality guarantees that can fail.
+Protocol/Economic,Operational,PrivilegedKeyMismanagement,Protocol,entry,Compromised operator/admin key bypasses on-chain safety intent.

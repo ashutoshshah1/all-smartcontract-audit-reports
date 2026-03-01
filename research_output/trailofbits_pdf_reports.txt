@@ -1,0 +1,579 @@
+https://github.com/trailofbits/publications/blob/master/assurance_overview.pdf
+https://github.com/trailofbits/publications/blob/master/citation_guidelines.pdf
+https://github.com/trailofbits/publications/blob/master/papers/account-takeover-recommended-practices.pdf
+https://github.com/trailofbits/publications/blob/master/papers/ceo.pdf
+https://github.com/trailofbits/publications/blob/master/papers/civscope.pdf
+https://github.com/trailofbits/publications/blob/master/papers/cset22.pdf
+https://github.com/trailofbits/publications/blob/master/papers/cyberdyne.pdf
+https://github.com/trailofbits/publications/blob/master/papers/debloater-eval.pdf
+https://github.com/trailofbits/publications/blob/master/papers/deception_attribution_ctf.pdf
+https://github.com/trailofbits/publications/blob/master/papers/deepstate-bar18.pdf
+https://github.com/trailofbits/publications/blob/master/papers/echidna-parade_issta21.pdf
+https://github.com/trailofbits/publications/blob/master/papers/echidna_fc_poster.pdf
+https://github.com/trailofbits/publications/blob/master/papers/echidna_issta2020.pdf
+https://github.com/trailofbits/publications/blob/master/papers/edhoc-euros&P-2023.pdf
+https://github.com/trailofbits/publications/blob/master/papers/eqsat-pldi-egraphs2022.pdf
+https://github.com/trailofbits/publications/blob/master/papers/irene_milcom_2024.pdf
+https://github.com/trailofbits/publications/blob/master/papers/issta24-polytracker.pdf
+https://github.com/trailofbits/publications/blob/master/papers/manticore.pdf
+https://github.com/trailofbits/publications/blob/master/papers/mishegos-langsec2021.pdf
+https://github.com/trailofbits/publications/blob/master/papers/potato-eurollvm-poster.pdf
+https://github.com/trailofbits/publications/blob/master/papers/qrs21.pdf
+https://github.com/trailofbits/publications/blob/master/papers/rsagtfo.pdf
+https://github.com/trailofbits/publications/blob/master/papers/ruzzy-ruby-fuzzer.pdf
+https://github.com/trailofbits/publications/blob/master/papers/semantic_labeling_langsec2020.pdf
+https://github.com/trailofbits/publications/blob/master/papers/sieve-msp430-pets2023.pdf
+https://github.com/trailofbits/publications/blob/master/papers/smart_contract_flaws_fc2020.pdf
+https://github.com/trailofbits/publications/blob/master/papers/test_harness_mutilation.pdf
+https://github.com/trailofbits/publications/blob/master/papers/toward_comprehensive_risk_assessments.pdf
+https://github.com/trailofbits/publications/blob/master/papers/trailofbits-20220601-are-blockchain-decentralized-whitepaper.pdf
+https://github.com/trailofbits/publications/blob/master/papers/trailofbits-20220601-do-you-really-need-a-blockchain-whitepaper.pdf
+https://github.com/trailofbits/publications/blob/master/papers/trailofbits-20230307-ai-risk-assessments-whitepaper.pdf
+https://github.com/trailofbits/publications/blob/master/papers/trailofbits-20241218-recursion-whitepaper.pdf
+https://github.com/trailofbits/publications/blob/master/papers/ubet_langsec_2023.pdf
+https://github.com/trailofbits/publications/blob/master/papers/usenixsecurity24-endokernel.pdf
+https://github.com/trailofbits/publications/blob/master/papers/vast-eurollvm-poster.pdf
+https://github.com/trailofbits/publications/blob/master/papers/weakfs_ieee_s&p_2023.pdf
+https://github.com/trailofbits/publications/blob/master/papers/wetseb19.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/A Broad Comparative Evaluation of Software Debloating Tools/debloater-eval.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/A Broad Comparative Evaluation of x86-64 Binary Rewriters/A Broad Comparative Evaluation of x86-64 Binary Rewriters.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/A Tale of Mobile Threats/a_tale_of_mobile_threats_slides.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/A mostly gentle introduction to LLVM/A mostly gentle introduction to LLVM.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Analyzing the MD5 Collision in Flame/flame-md5.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Anatomy of an unsafe programming language/Anatomy of an Unsafe Smart Contract Programming Language (Sultanik EH 2018-12-12).pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Anatomy of an unsafe programming language/Fantastic Bugs and How to Squash Them.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Attestations: a new generation of signatures on PyPI/slides.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Automated Tools for Securing the Software Supply Chain/Automated Tools for Securing the Software Supply Chain.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Automatic bugfinding for the blockchain/abfftb.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Automatically Detecting Variability Bugs Through Hybrid Control and Data Flow Analysis/langsec_2023_ubet.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Best Practices for Cryptography in Python/presentation.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Binary Symbolic Execution With KLEE-Native/KLEE-Native EH Presentation.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Binary analysis, meet the blockchain/Binary-analysis-meet-the-blockchain.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Blackhat Ethereum/Blackhat Ethereum.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Blockchain Autopsies - Analyzing Smart Contract Deaths/Blockchain-Autopsies-lightning.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Blockchain Autopsies - Analyzing Smart Contract Deaths/us-18-Little-Blockchain-Autopsies-Analyzing-Ethereum-Smart-Contract-Deaths.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Build Provenance: Lessons (so Far) from Homebrew/slides.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Build it Break it Fix it/BIBI-BlueHat.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Building Secure Cairo/Building Secure Cairo.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Building a Practical Static Analyzer for Smart Contracts/2021-10-27-dagstuhl-slither.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Building a Rusty path validation library for PyCA Cryptography/slides.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Buttercup and DARPA's AI Cyber Challenge, Henrik Brodin and Ronald Eytchison/Buttercup and DARPA’s AI Cyber Challenge - Ringzer0.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Buttercup and DARPA's AI Cyber Challenge, Ronald Eytchison/Buttercup and DARPA's AI Cyber Challenge - CSAW.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Buttercup: Autonomously Finding and Fixing Bugs at Scale in Open-Source Software/buttercup-cucyber.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Buttercup: The Future of Trail of Bits' Solution to DARPA's AI Cyber Challenge/Buttercup: The Future of Trail of Bits' Solution to DARPA's AI Cyber Challenge.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Careful with MAc-then-SIGn/128_Careful_with_MAC_then_SIGn.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Constant-Time Coding Support in LLVM/Constant-Time Coding Support in LLVM.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Contract upgrade risks and recommendations/contract_upgrades.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Cut To The QUIC: Slashing QUIC's Performance With A Hash DoS/Cut to the QUIC: Slashing QUIC's Performance with a Hash DoS.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Cyber Grand Challenge/Cyberdyne-Automatic-Bug-Finding-at-Scale-Peter-Goodman.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Cyber Grand Challenge/Dinaburg_INFILTRATE_2016.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Cyber Grand Challenge/cgcempirehacking_wide.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Demystifying Fuzzing/Demystifying Fuzzing.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Detecting transaction replacement attacks with Manticore/Detecting transaction replacement attacks with Manticore.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Differential analysis of x86-64 decoders/langsec-2021-slides.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Differential fuzzing, or how to find bugs when (ground) truth isn't real/Differential fuzzing, or_ how to find bugs when (ground) truth isn't real.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Ergonomic codesigning for the Python ecosystem with Sigstore/slides.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Exploiting Out-of-Order Execution/roots17.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Exploiting Out-of-Order Execution/thesis.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/From One Ivory Tower to Another/ivory_tower_slides.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Getting started with osquery/Carbon Black Customer Conference - Osquery.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Going sicko mode on the Linux Kernel/Going sicko mode on the linux kernel.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Holistic ML Threat Models/BSidesSF - AI Village - Holistic ML threat models.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Holistic ML Threat Models/Graph the planet - Holistic ML threat models.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Holistic ML Threat Models/Tokyo AI event_ 総合的な機械学習の脅威モデリング.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/How to Become a Smart Contract Auditor/HowToBecomeASmartContractAuditor.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/How to Fuzz Like a Pro/Defi Security Summit – Fuzz Like a Pro.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/How to Fuzz Like a Pro/Eth Taipei Workshop.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/How to Fuzz Like a Pro/EthCC – Fuzz Like a Pro.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Imagining a zero-trust future for PyPI/slides.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Implementing X.509 path validation for Python/slides.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Improving PyPI's security with Two Factor Authentication/Improving PyPI's security with Two Factor Authentication.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Incubated Machine Learning Exploits: Backdooring ML Pipelines Using Input-Handling Bugs/DEFCON_32_Suha_Sabi_Hussain_Incubated_ML_Exploits.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Indirect Prompt Injection: Architectural Testing Approaches for Real World AI ML Systems/Indirect Prompt Injection_ Architectural Testing Approaches for Real World AI_ML Systems.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Introduction To Semgrep/Testing Handbook - Semgrep.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Introduction To Semgrep/TrailofBits_Semgrep_Practice_Exercises.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/JWTs, and why they suck/JWTs, and why they suck - BSidesLDN 2021 - 20211113.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Kernel space fault injection with KRF/Kernel space fault injection with KRF.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Low-level Security/HackNYWorkshop.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/MLIR is the future of program analysis/QPSS_2023_-_MLIR_is_the_future_of_program_analysis.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/McSema - Static Translation of x86 instructions to LLVM IR/McSema.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Modern iOS Application Security/iOS Application Security.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Modern iOS Application Security/iOS Application Security_notes.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Never a Dill Moment: Exploiting Machine Learning Pickle Files/DEFCON AI Village Fickling Talk.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/On the Optimization of Equivalent Concurrent Computations/PLDI-EGRAPHS-2022.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/One, Two, TEE: Trust in Numbers Meets Hardware Security/OneTwoTEE_Decompute2025_Paul_Bottinelli.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Our experience competing in the AI Cyber Challenge/Our_experience_competing_in_the_AI_Cyber_Challenge.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/PEP 740 and PyPI: Bootstrapping Provenance for the Python Ecosystem/slides.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Peeling back the Shlayers of macOS Malware/OBTS_v2_Noerenberg_Watson.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/PrivacyRaven: Comprehensive Privacy Testing for Deep Learning/PrivacyRaven_OpenMined.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Property-based testing of smart contracts/Property-based testing of smart contracts.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Python Packaging Mystery Meat/slides.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Repeatable Benchmarking: An Exploration of OpenSearch vs Elasticsearch/Repeatable Benchmarking: An Exploration of OpenSearch vs Elasticsearch.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Repurposing LLVM analyses in MLIR: Also there and back again across the Tower of IRs/slides.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Return to the 100 Acre Woods/presentation.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Safely integrating with ERC20 tokens/safely_integrating_erc20.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Securing value on the Ethereum blockchain/intro_to_ethereum_security.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Securing your Package Ecosystem with Trusted Publishing/Securing your Package Ecosystem with Trusted Publishing.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Security and Your Business/HNYM.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Semantic Labeling of Parsers/PolyMerge_LangSec2020.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Seriously, stop using RSA/Seriously, stop using RSA.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Sigstore for Python Packaging: Next Steps for Adoption/slides.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/SlithIR, An Intermediate Representation of Solidity to enable High Precision Security Analysis/2019-04-17-SlithIR_RunEVM.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Slither's Model Context Protocol: Giving LLMs Ground Truth from Static Analysis/Slither's Model Context Protocol: Giving LLMs Ground Truth from Static Analysis.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Slither: A Static Analysis Framework for Smart Contracts/2019-03-07-Slither_EthCC.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Smart Contracts: The Beta/DSS 101.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Swimming with the kubectl fish/OWASPGlobalDC.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Symbolically Executing a Fuzzy Tyrant/symbolically_executing_a_fuzzy_tyrant.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Testing and Verifying Smart Contracts: From Theory to Practice/testing_and_verifying_smart_contracts.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/The Exploit Intelligence Project/exploit_intelligence_project_paper.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/The Joy of Pwning/joy_of_pwning.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/The Mobile Exploit Intelligence Project/mobile_eip-04-19-2012.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/The Mobile Exploit Intelligence Project/mobile_eip_2.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/The Mobile Exploit Intelligence Project/mobile_eip_3.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/The Next 5 Years of Supply Chain Security on PyPI/slides.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/The Treachery of Files/File Polyglottery BSides Philly 2017.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/The Treachery of Files/The Treachery of Files Empire Hacking 2019.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/The dream of a static and dynamic analysis shootout/inbot-stortz-fixed-1.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/TrustX 2023/Slither a Vyper and Solidity static analyzer/TrustX 2023 - Slither a Vyper and Solidity static analyzer.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/TrustX 2023/Test Your Tests/TrustX 2023 - Test Your Tests.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/TrustX 2023/roundme/TrustX 2023 - roundme.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Trusted Publishing: Lessons from PyPI/Trusted Publishing: Lessons from PyPI.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Using Graph-Based Machine Learning Algorithms for Software Analysis/Using Graph-Based Machine Learning Algorithms for Software Analysis.pptx.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/VAST: MLIR for program analysis of C/slides.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Vulnerability Modeling with Binary Ninja/Vulnerability Modeling with Binary Ninja.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Weaponizing Image Scaling Against Production AI Systems/Weaponizing Image Scaling.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/What blockchain got right/what_blockchain_got_right.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/What does it look like to code-sign for an entire packaging ecosystem/What does it look like to code-sign for an entire packaging ecosystem.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Write Better Smart Contracts By Checking Them With Slither's Python API/Write Better Smart Contracts By Checking Them With Slither's Python API.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/Your Mitigations are My Opportunities/Your Mitigations are My Opportunities.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/die, PGP, die/die, PGP, die.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/macOS Privilege Escalation Via Traceroute6/macos-privilege-escalation-via-traceroute6.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/osql: The community oriented osquery fork/querycon 19_ osql.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/osquery Extension Skunkworks/The osquery Extensions Skunkworks Project.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/osquery Linux security event monitoring/QueryCon 19 - Linux security event monitoring with osquery.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/osquery Super Features/Osquery Super Features.pdf
+https://github.com/trailofbits/publications/blob/master/presentations/public/CFTC_TAC_presentation_March_2023.pdf
+https://github.com/trailofbits/publications/blob/master/public-comments/AIBOM-RFI-response.pdf
+https://github.com/trailofbits/publications/blob/master/public-comments/comprehensive-risk-assessment-framework-AI-Assurance-ELS-Domains.pdf
+https://github.com/trailofbits/publications/blob/master/public-comments/tob-response-to-oncd-cisa-rfi-2023.pdf
+https://github.com/trailofbits/publications/blob/master/reports/OpenSearch-Benchmarking.pdf
+https://github.com/trailofbits/publications/blob/master/reports/Policy_Language_Security_Comparison_and_TM.pdf
+https://github.com/trailofbits/publications/blob/master/reports/detecting-implicit-conversions-in-openvpn2-using-codeql-casestudy.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/0x-protocol.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2021-04-balancer-balancerv2-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2021-08-soramitsu-polkaswap-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2021-11-aave-v3-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2022-03-maplefinance-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2022-07-beanstalk-fixreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2022-07-beanstalk-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2022-07-microsoft-go-cose-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2022-07-mobilecoin-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2022-08-reserve-protocol-fixreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2022-08-reserve-protocol-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2022-09-aleosystems-snarkvm-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2022-09-alphasoc-alphasocapi-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2022-09-dfinity-sns-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2022-09-incrementprotocol-fixreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2022-09-incrementprotocol-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2022-09-maplefinance-mapleprotocolv2-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2022-09-subspacenetwork-subspacenetworkdesktopfarmer-fixreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2022-09-subspacenetwork-subspacenetworkdesktopfarmer-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2022-10-GSquared-fixreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2022-10-GSquared-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2022-10-balancerlabs-managedpoolsmartcontracts-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2022-10-fraxfinance-fraxlend-fraxferry-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2022-10-openarchivesaveios-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2022-10-shimacapital-ondo-fixreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2022-10-shimacapital-ondo-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2022-11-folksfinance-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2022-11-optimism-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2022-12-curl-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2022-12-curl-threatmodel.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2022-12-driftlabs-driftprotocol-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2022-12-openarchivesaveandroid-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2022-12-openvpn-openvpn2-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2022-12-paxos-paypal-pyusd-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-01-keda-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-01-ryanshea-noblecurveslibrary-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-02-chainport-fixreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-02-chainport-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-02-eclipse-mosquitto-lightweight-threatmodel.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-02-nestedfinance-smartcontracts-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-02-ryanshea-practicalstealthaddresses-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-02-solana-token-2022-program-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-02-succinct-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-03-atlendis-atlendissmartcontracts-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-03-eclipse-jetty-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-03-eclipse-mosquitto-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-03-eleutherai-huggingface-safetensors-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-03-primitive-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-03-spool-platformv2-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-03-walletconnectv2-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-03-wormhole-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-04-ajnalabs-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-04-chainflip-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-04-mysoloans-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-04-prysm-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-04-scroll-zkEVM-wave1-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-04-smardexamm-realestateexecutives-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-04-tempus-raft-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-05-eclipse-jkube-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-05-franklintempleton-moneymarket-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-05-fraxgov-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-06-axiom-halo2libraries-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-06-dfinity-ckBTC-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-06-dfinity-sns-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-06-nestedfinance-tetrishyvm-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-06-thesistsslib-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-07-arcade-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-07-dappos-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-07-dragonfly2-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-07-liskv4.0-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-07-sandclock-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-07-scroll-zktrie-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-07-solana-solang-library-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-08-28-homebrew-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-08-aura-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-08-digitalocean-oidc-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-08-easycrypto-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-08-flux-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-08-immutable-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-08-scroll-zkEVM-wave2-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-08-scrollL2geth-initial-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-08-scrollL2geth-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-08-worldcoin-orb-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-09-elixir-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-09-hyperlane-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-09-lisksdk-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-09-offchain-labs-custom-fee-token-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-09-openssl-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-09-pypi-warehouse-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-09-scroll-zkEVM-wave3-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-09-solana-solang-parser-semantic-analysis-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-09-uniswap-wallet-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-09-wasmCloud-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-10-aleo-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-10-axiom-halo2libraryupgrades-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-10-saltyio-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-10-spiko-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-10-squadsv4-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-10-yolov7-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-11-dfinity-candid-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-11-immutable-zkevmbridgecontracts-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-11-ockam-designreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-11-solana-solang-code-generation-part-1-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-11-solana-solang-code-generation-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-12-acronym-foundation-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-12-curl-http3-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-12-eclipse-temurin-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-12-offchain-labs-arbitrum-token-bridge-creator-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-12-opus-contracts-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-12-pacman-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-12-unibot-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2023-8-offchain-challenge-protocol-V2-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2024-01-agilebits-snow-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2024-01-metalayerblast-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2024-01-offchainarbitrum-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2024-01-pyth-entropy-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2024-02-heliosglobal-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2024-02-offchainlabsarbos-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2024-02-scopelift-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2024-02-silencelaboratories-silentshard-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2024-02-uniswap-wallet-browserextension-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2024-03-aladdinfxprotocol-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2024-03-bondexecosystem-loa.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2024-03-curvance-invariant-development.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2024-03-intuition-smart-contracts-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2024-03-lisksmartcontracts-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2024-03-pufferfinance-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2024-03-seda-chaintokenmigration-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2024-03-tonfoundation-multisignaturewallet-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2024-04-ironfish-fishhash-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2024-04-offchain-arbos-30-nitro-upgrade-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2024-04-offchain-arbos-31-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2024-04-offchain-l1-l3-teleporter-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2024-04-offchainbold-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2024-04-scroll-4844-blob-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2024-05-ailayerlabs-6079smartcontracts-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2024-05-hydrogenlabs-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2024-05-lisksmartcontracts-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2024-05-offchain-arbitrumstylus-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2024-05-panoptic-liquidation-engine-invariant-development.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2024-05-parabollabs-protocolcontracts-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2024-05-polygonlabs-iden3circuits-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2024-05-wonderland-prophet-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2024-06-aladdinfx-oracle-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2024-06-ethereum-foundation-devcon-auction-raffle-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2024-06-lit-protocol-cait-sith-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2024-06-offchain-labs-bold-dac-rewards-updates-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2024-06-scroll-zstd-compression-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2024-06-zoo-kittycad-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2024-07-taraxa-bridge-smart-contracts-v2-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2024-07-uniswap-v4-core-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2024-08-discord-dave-protocol-designreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2024-08-elixir-technologies-ltd-elixir-protocol-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2024-08-offchainlabs-office-hours-governance-action-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2024-08-offchainlabs-orbit-actions-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2024-08-offchainlabs-register-and-set-arb-custom-gateway-action-governance-action-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2024-08-offchainlabs-timeboost-auction-contracts-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2024-08-offchainlabs-usdc-custom-gateway-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2024-08-onchain-pass-app-contracts-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2024-09-discord-dave-protocol-codereview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2024-09-kraken-mobile-wallet-icloud-backup-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2024-09-offchain-stylus-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2024-09-treehouse-finance-teth-extension-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2024-1-kraken-mobile-wallet-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2024-10-30-Offchain-NitroContractswithBoLD-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2024-10-huggingface-gradio-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2024-10-offchain-bold-optimized-history-commit-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2024-10-offchain-stylus-emergency-fixes-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2024-11-kraken-wallet-in-app-browser-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2024-11-nomic-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2024-11-orgaandmerk-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2024-11-plume-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2024-12-ULTI-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2024-12-alignedlayer-aligned-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2024-12-arkis-defi-prime-brokerage-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2024-12-balancer-v3-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2024-12-ethstaker-depositcli-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2024-12-istio-ztunnel-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2024-12-offchain-boldfixes-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2024-12-pixelswap-dex-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2024-12-rubycentral-rubygemsorg-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2025-01-bacon-labs-bunniv2-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2025-01-beethovenx-sonicstaking-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2025-01-parabollabs-protocolcontractsupdates-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2025-01-scopely-monopolygo-letterofattestation.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2025-01-shape-gasback-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2025-01-stonfi-ton-amm-dex-v2-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2025-01-ton-studio-tact-compiler-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2025-01-zetachain-bitcoin-inscriptions-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2025-01-zetachain-solana-gateway-security-review.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2025-02-automata-dcap-attestation-onchain-pccs-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2025-02-franklintempleton-benjicontracts-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2025-02-zkverify-foundation-blockchain-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2025-03-google-gocryptographiclibraries-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2025-03-offchain-custom-fee-erc20-bridge-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2025-03-offchain-custom-fee-token-exchange-rate-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2025-03-offchain-disablegateway-action-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2025-03-offchain-geth-14.4-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2025-03-offchain-security-council-rotation-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2025-03-offchain-sequencer-liveness-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2025-03-otim-smart-wallet-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2025-03-scroll-euclidphase1-loa.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2025-03-scroll-euclidphase2-loa.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2025-03-zkonduit-ezkl-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2025-04-lagrange-latoken-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2025-04-offchainlabs-reward-distributor-fixes-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2025-04-ostif-nats-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2025-04-quantum-open-safe-liboqs-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2025-04-reserve-folio-solidity-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2025-04-reserve-solana-dtfs-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2025-04-scroll-euclid-phase1-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2025-04-scroll-euclid-phase2-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2025-04-serai-dex-security-review.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2025-05-FIVA-evaaintegration-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2025-05-FIVA-yieldtokenizationprotocol-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2025-05-caplabs-coveredagentprotocol-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2025-05-fabriclabs-zipperprotocol-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2025-05-offchainlabs-arbos40nitro-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2025-05-shapenetwork-token-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2025-05-whales-dmcc-holders-contracts-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2025-05-whales-dmcc-nominators-contract-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2025-06-discord-e2eewebassembly-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2025-06-offchain-arbitrum-block-hash-pusher-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2025-06-offchain-arbitrum-mint-burn-precompile-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2025-06-offchain-setcoregovernorquorumaction-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2025-06-reserveprotocol-solidity400-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2025-07-offchain-upgrade-executor-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2025-07-scroll-feynmanupgradesmartcontractchanges-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2025-07-swapcoffee-tondex-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2025-08-ava-labs-avalanchego-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2025-08-evaafinance-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2025-08-gemini-smartwallet-letterofattestation.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2025-08-gemini-smartwallet-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2025-08-googlelongfellow-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2025-08-meta-whatsapp-privateprocessing-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2025-08-starkware-starkex-diff-review-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2025-09-dfinity-oisy-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2025-09-dfinity-orbit-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2025-09-shapenetwork-buybackcontract-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2025-1-everstake-ethereum-staking-protocol-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2025-10-franklintempleton-benjiswapcontract-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2025-10-radiustechnology-evmauth-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2025-10-vechain-vechainthorhayabusaupgrade-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2025-10-x-xchat-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2025-11-edera-container-runtime-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2025-12-near-one-confidential-key-derivation-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2025-12-offchain-arbitrum-chains-genesis-generator-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2025-12-offchain-arbos50-and-51-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2026-01-anza-token-2022-confidential-transfer-blockchain-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2026-01-anza-token-2022-confidential-transfer-cryptography-securityreview.pdf.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2026-01-bron-mcp-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2026-01-bsv-association-ts-sdk-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2026-01-calyx-hsm-provisioning-ceremony-scripts-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2026-01-offchain-nitro-external-da-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2026-02-aave-v4-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2026-02-offchain-arbitrum-quorum-changes-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/2026-02-tonco-clamm-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/88mph.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/API3.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/AcalaNetwork.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/AdvancedBlockchain.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/AdvancedBlockchainQ12022.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/AdvancedBlockchainQ42021.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/AlephBFT.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/AnteProtocol.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/AnteProtocolFixReview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/BalancerCore.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/BeethovenXSummary.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/CREAMSummary.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/CasperLabsHighwayProtocol.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/CasperLedger.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/CloudEvents.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/CompliFi.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/CoreDNS.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/CurveDAO.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/DFINITY.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/DFINITYCanisterSandbox.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/DFINITYCanisterSandboxFixReview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/DFINITYConsensus.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/DFINITYThresholdECDSAandBtcCanisters.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/DFINITYThresholdECDSAandBtcCanistersFixReview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/DeGate.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/EIP-1283.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/ETH2DepositCLI.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/Flexa.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/FraxFinance.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/FraxQ22022.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/FraxQ42021.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/FujiProtocol.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/Galoy.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/Helm.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/Hey.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/LedgerFilecoin.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/Linkerd-fixreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/Linkerd-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/Linkerd-threatmodel.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/LinuxKernelReleaseSigning.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/Liquity.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/LiquityProtocolandStabilityPoolFinalReport.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/LiquityProxyContracts.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/LooksRare.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/MagmaWallet.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/MapleFinance.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/MesonProtocol.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/MesonProtocolDesignReview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/MesonProtocolFixReview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/Microsoft-go-cose.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/MobileCoinBFT.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/Mobilecoin.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/MobilecoinFog.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/MorphoLabs.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/NFTX.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/NervosSUDT.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/OPAGatekeeper.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/Opyn-Gamma-Protocol.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/Opyn.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/OriginDollar.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/ParallelFinance.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/ParallelFinance2.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/ParallelFinance2FixReview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/ParallelFinance3.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/PerpetualProtocolV2.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/Primitive.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/RSKj.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/Reserve_LOA.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/RocketPool.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/SeaportProtocol.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/SecureDropWorkstation.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/ShellProtocolv2.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/Sherlockv2.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/SimpleXChat.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/SpruceID.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/StandardNotes.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/SweetB.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/Symbol.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/Tekton.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/Tezori.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/TokenCard.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/Umee.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/UniswapMobileWallet-fixreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/UniswapMobileWallet-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/UniswapV3Core.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/WorkLock-Summary.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/YearnV2Vaults.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/YieldProtocol.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/YieldV2.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/Zcash.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/Zcash2.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/ZcashWP.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/ZeroTierProtocol.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/aaveprotocol.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/amp.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/ampleforth.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/argo-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/argo-threatmodel.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/arweave-randomx.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/aztec.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/basis.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/celo-oracle.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/chai-loa.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/compound-2.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/compound-3.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/compound-governance.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/computable.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/curve-summary.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/dapphub.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/dexter.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/dharma-smartwallet.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/dodo.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/dtoken.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/etcd.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/gemini-dollar.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/golem.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/hegic-summary.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/hermez.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/livepeer.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/mc-dai.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/nucypher-2.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/nucypher.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/numerai.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/origin.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/osquery.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/pantheon.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/parity.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/paxos.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/qtum_loa.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/renvm.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/reviews:2024-02-scopelift-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/rook.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/sai.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/sandiskx600.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/setprotocol.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/thesis-summary.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/voatz-securityreview.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/voatz-threatmodel.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/wALGO.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/wXTZ.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/zcoin-lelantus-summary.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/zecwallet.pdf
+https://github.com/trailofbits/publications/blob/master/reviews/zlib.pdf
+https://github.com/trailofbits/publications/blob/master/service-overviews/AI-safety-security-training.pdf
+https://github.com/trailofbits/publications/blob/master/workshops/Automated Smart Contracts Audit - TruffleCon 2018/echidna/exercises.pdf
+https://github.com/trailofbits/publications/blob/master/workshops/Automated Smart Contracts Audit - TruffleCon 2018/manticore/exercises.pdf
+https://github.com/trailofbits/publications/blob/master/workshops/Automated Smart Contracts Audit - TruffleCon 2018/presentation.pdf
+https://github.com/trailofbits/publications/blob/master/workshops/Automated Smart Contracts Audit - TruffleCon 2019/echidna/echidna.pdf
+https://github.com/trailofbits/publications/blob/master/workshops/Automated Smart Contracts Audit - TruffleCon 2019/manticore/manticore.pdf
+https://github.com/trailofbits/publications/blob/master/workshops/Automated Smart Contracts Audit - TruffleCon 2019/slides.pdf
+https://github.com/trailofbits/publications/blob/master/workshops/Automated Smart Contracts Audit - TruffleCon 2019/slither/slither.pdf
+https://github.com/trailofbits/publications/blob/master/workshops/DeepState: Bringing vulnerability detection tools into the development lifecycle - SecDev 2018/secdev.pdf
+https://github.com/trailofbits/publications/blob/master/workshops/Introduction to Smart Contract Exploitation - GreHack 2018/exercises.pdf
+https://github.com/trailofbits/publications/blob/master/workshops/Introduction to Smart Contract Exploitation - GreHack 2018/presentation.pdf
+https://github.com/trailofbits/publications/blob/master/workshops/Manticore - EthCC 2018/exercise.pdf
+https://github.com/trailofbits/publications/blob/master/workshops/Manticore - EthCC 2018/presentation.pdf
+https://github.com/trailofbits/publications/blob/master/workshops/Manticore - GreHack 2017/manticore_workshop_grehack17.pdf
+https://github.com/trailofbits/publications/blob/master/workshops/Smart Contract Security Automation - ETHBerlin 2018/Berlin Workshop.pdf
+https://github.com/trailofbits/publications/blob/master/workshops/Using Manticore and Symbolic Execution to Find Smart Contracts Bugs - Devcon 4/exercises.pdf
+https://github.com/trailofbits/publications/blob/master/workshops/Using Manticore and Symbolic Execution to Find Smart Contracts Bugs - Devcon 4/manticore_api.pdf
+https://github.com/trailofbits/publications/blob/master/workshops/Using Manticore and Symbolic Execution to Find Smart Contracts Bugs - Devcon 4/presentation.pdf

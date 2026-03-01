@@ -1,0 +1,6 @@
+program_type,reports_with_bug_signal,reports_with_HM_signal,acceptance_rate_proxy_pct
+EVM Program,1449,329,22.71
+Governance Program,1101,215,19.53
+Protocol Bugs,961,315,32.78
+Rust-Based Programs,1013,197,19.45
+Solidity Problems,1587,374,23.57

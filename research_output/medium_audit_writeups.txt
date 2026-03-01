@@ -1,0 +1,17 @@
+https://blog.blockmagnates.com/breaking-immutability-how-i-bypassed-a-core-security-invariant-in-a-major-defi-protocol-6038be8a4f94
+https://coinsbench.com/on-chain-smart-contract-audits-bringing-transparency-and-verifiable-security-to-web3-f1272972d1de
+https://coinsbench.com/the-anatomy-of-a-53m-hack-radiant-capital-post-mortem-and-the-operational-security-playbook-ff8d2ba1843f
+https://coinsbench.com/the-current-position-of-ai-in-web3-sec-ai-mirage-and-the-high-cost-of-cheap-security-5df6ffca427a
+https://favoriteblockchain.medium.com/smart-contract-security-checklist-2%EF%B8%8F%E2%83%A3-attackers-mindset-c776b47f67f8
+https://medium.com/@M1S0/sagaevm-7m-hack-0c2a24b5bc54
+https://medium.com/@articlesubmission951/building-trust-in-web3-how-secure-nft-marketplace-development-blockchain-security-and-smart-2c8bf05c7b71
+https://medium.com/@articlesubmission951/fortifying-the-future-of-digital-assets-how-blockchain-security-smart-contract-audits-and-web3-685868da9700
+https://medium.com/@articlesubmission951/revolutionizing-blockchain-protection-cutting-edge-security-smart-contract-audits-and-web3-fc943c64a2e1
+https://medium.com/@articlesubmission951/securing-the-future-of-decentralized-innovation-enterprise-grade-smart-contract-audits-web3-1fa27dab9d54
+https://medium.com/@babita_10448/ai-agents-in-defi-security-emerging-threats-and-protection-strategies-for-modern-defi-protocols-6caf4462db96
+https://medium.com/@bugbountydegen/deep-dive-into-the-pgnlz-self-detonation-exploit-a-technical-analysis-6246c6fda2ef
+https://medium.com/@iamabraham/if-ai-can-audit-smart-contracts-why-do-we-still-need-human-auditors-9c1cef3f7212
+https://medium.com/@iamabraham/you-dont-need-this-to-start-web3-security-1bf6caa84598
+https://medium.com/@y.diwan95/when-a-denial-of-service-isnt-a-vulnerability-425e8e924d8b
+https://olympixai.medium.com/moonwell-truebit-mscst-exploits-28-53m-lost-to-oracle-overflow-flash-loan-failures-5b063da30c41
+https://yhbit.medium.com/strengthening-web3-security-recent-vulnerability-findings-from-yhbit-4f6586f9a2a2

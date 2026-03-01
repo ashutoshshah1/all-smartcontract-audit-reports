@@ -1,0 +1,130 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "AuditOutputV2",
+  "type": "object",
+  "required": [
+    "project_classification",
+    "threat_model",
+    "taxonomy_coverage_ledger",
+    "findings",
+    "suspects",
+    "quality_checks"
+  ],
+  "properties": {
+    "project_classification": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["class", "confidence", "evidence", "reason"],
+        "properties": {
+          "class": { "type": "string" },
+          "confidence": { "type": "number", "minimum": 0, "maximum": 100 },
+          "evidence": { "type": "array", "items": { "type": "string" } },
+          "reason": { "type": "string" }
+        }
+      }
+    },
+    "threat_model": {
+      "type": "object",
+      "required": ["privileged_actors", "entry_points", "trust_boundaries", "critical_invariants"],
+      "properties": {
+        "privileged_actors": { "type": "array", "items": { "type": "string" } },
+        "entry_points": { "type": "array", "items": { "type": "string" } },
+        "trust_boundaries": { "type": "array", "items": { "type": "string" } },
+        "critical_invariants": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "taxonomy_coverage_ledger": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "bucket",
+          "bug_family",
+          "subtype",
+          "status",
+          "checked_artifacts",
+          "trigger_observed",
+          "why_pass_or_not"
+        ],
+        "properties": {
+          "bucket": { "type": "string" },
+          "bug_family": { "type": "string" },
+          "subtype": { "type": "string" },
+          "status": { "type": "string", "enum": ["PASS", "SUSPECT", "FINDING"] },
+          "checked_artifacts": { "type": "array", "items": { "type": "string" } },
+          "trigger_observed": { "type": "boolean" },
+          "evidence_snippet": { "type": "string" },
+          "impact_path": { "type": "string" },
+          "why_pass_or_not": { "type": "string" }
+        }
+      }
+    },
+    "findings": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "finding_id",
+          "title",
+          "class",
+          "bug_family",
+          "subtype",
+          "severity_guess",
+          "confidence",
+          "affected_components",
+          "trigger_conditions",
+          "exploit_steps",
+          "impact",
+          "evidence",
+          "minimal_fix",
+          "regression_test_case"
+        ],
+        "properties": {
+          "finding_id": { "type": "string" },
+          "title": { "type": "string" },
+          "class": { "type": "string" },
+          "bug_family": { "type": "string" },
+          "subtype": { "type": "string" },
+          "severity_guess": { "type": "string", "enum": ["critical", "high", "medium", "low"] },
+          "confidence": { "type": "number", "minimum": 0, "maximum": 100 },
+          "affected_components": { "type": "array", "items": { "type": "string" } },
+          "trigger_conditions": { "type": "array", "items": { "type": "string" } },
+          "exploit_steps": { "type": "array", "items": { "type": "string" } },
+          "impact": { "type": "string" },
+          "evidence": { "type": "array", "items": { "type": "string" } },
+          "why_controls_fail": { "type": "string" },
+          "minimal_fix": { "type": "string" },
+          "regression_test_case": { "type": "string" }
+        }
+      }
+    },
+    "suspects": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["candidate", "missing_evidence", "next_validation_step"],
+        "properties": {
+          "candidate": { "type": "string" },
+          "missing_evidence": { "type": "string" },
+          "next_validation_step": { "type": "string" }
+        }
+      }
+    },
+    "quality_checks": {
+      "type": "object",
+      "required": [
+        "unchecked_taxonomy_rows_count",
+        "findings_missing_exploit_path_count",
+        "findings_missing_fix_count",
+        "assumptions_unvalidated_count"
+      ],
+      "properties": {
+        "unchecked_taxonomy_rows_count": { "type": "integer", "minimum": 0 },
+        "findings_missing_exploit_path_count": { "type": "integer", "minimum": 0 },
+        "findings_missing_fix_count": { "type": "integer", "minimum": 0 },
+        "assumptions_unvalidated_count": { "type": "integer", "minimum": 0 }
+      }
+    }
+  }
+}

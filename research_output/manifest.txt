@@ -1,0 +1,16 @@
+generated_at=2026-02-28T17:09:07Z
+all_public_audit_links_dedup.txt 5358
+cantina_competitions.txt 166
+code4rena_reports.txt 402
+code4rena_submissions.txt 402
+consensys_diligence_audits.txt 140
+external_writeups_manifest.txt 5
+medium_audit_writeups.txt 17
+nethermind_pdf_reports.txt 164
+quillhash_pdf_reports.txt 855
+sherlock_contests.txt 230
+sherlock_judging.txt 229
+techrate_report_files.txt 2191
+trailofbits_pdf_reports.txt 579
+twitter_audit_and_incident_handles.txt 14
+twitter_security_writeups_from_rekt.txt 147
